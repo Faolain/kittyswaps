@@ -1,0 +1,8 @@
+build
+artifacts
+cache
+
+.vscode/
+.vs_code/
+
+node_modules/
